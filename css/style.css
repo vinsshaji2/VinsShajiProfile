@@ -929,10 +929,10 @@ ul.social-buttons li:last-child {
 .social-btn:hover,.social-btn:focus {
 	background-image: linear-gradient(
 	to right,
-	  #009245,
-	  #fcee21,
-	  #00a8c5,
-	  #d9e021
+	   #009245,
+	   #fcee21,
+	   #00a8c5,
+	   #d9e021
 	);
 }
 .social {
